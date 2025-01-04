@@ -1,4 +1,4 @@
-# 🔸FinSense-Aibfr🔸
+# 🔸FinSense-Aibfr Dev Repo🔸
 
 - Explore the Secure Transactions with FinSense
 - Seamlessly manage transactions, track expenses, and gain insights—securely, anytime & anywhere.
