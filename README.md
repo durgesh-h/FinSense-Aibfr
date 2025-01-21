@@ -1,20 +1,52 @@
-# 🔸FinSense-Main-Dev🔸
+# 🔸FinSense_Main🔸
 
 - Explore the Secure Transactions with FinSense
 - Seamlessly manage transactions, track expenses, and gain insights—securely, anytime & anywhere.
 <p align="center">
  <img src="https://github.com/user-attachments/assets/08a3319d-b756-4efa-bf74-5bf52fa7a55c" width="500" height="150">
 </p>
+*FinSense* is a comprehensive **Finance Management SaaS Application**. FinSense is a secure and efficient financial management system that leverages Role-Based Access Control (RBAC) to manage user roles, permissions, and transactions in a structured workflow. The project integrates modern design principles, responsive layouts, and comprehensive transaction tracking.
 
+## 🔺 About FinSense
+
+FinSense is currently available as **FinSense 1.0**, a fully operational SaaS application developed by our dedicated team of professionals:
+
+- **Durgesh Prasad**  
+- **Sonal Kumari**  
+- **Sankalp Pimpalkar**  
+- **Abhishek Sharma**  
+
+Our commitment to continuous innovation has led us to the development of **FinSense 2.0 (FinSense.AI)**, which is currently under development. This next-generation solution will integrate AI-driven financial analytics, enhancing decision-making capabilities and automation.
+
+## 🔺 Key Features
+
+- **Cloud-Based SaaS Solution** – Access financial data anytime, anywhere.  
+- **Automated Financial Reports** – Generate insightful financial reports with ease.  
+- **Secure Transactions** – Data security with industry-standard encryption.  
+- **User-Friendly Interface** – Simplified navigation and intuitive design.  
+- **AI-Powered Insights (Upcoming in 2.0)** – Leverage AI for smarter financial management.  
+
+## 🏗️ Current Development
+
+**FinSense 2.0 (FinSense.AI)** is in active development and aims to introduce:  
+
+- Predictive financial analytics.  
+- AI-driven budgeting and forecasting.  
+- Enhanced user experience with advanced automation.  
+
+Stay tuned for upcoming updates and releases!
+
+## 📄 Licensing and Deployment
+
+FinSense is being successfully deployed and licensed to various institutions, ensuring tailored solutions for their financial management needs.
+1. SM College Bhagalpur, Bihar [Link](https://smcfinance-skillancer-prod.onrender.com)
+2. M.K.N. Hr. Sec. School, Bhopal [Link](https://mknschool.com)
+---
 ![RBAC_Finance_DFD_Square](https://github.com/user-attachments/assets/f51dd2e3-7f53-4e6e-ae86-f791585b4024)
-
-# 🔺About the Project
-
-FinSense is a secure and efficient financial management system that leverages Role-Based Access Control (RBAC) to manage user roles, permissions, and transactions in a structured workflow. The project integrates modern design principles, responsive layouts, and comprehensive transaction tracking.
 
 # 🔺 Live Demo
 
-- https://finance-backend-oeqh.onrender.com <br>
+- https://finsense-main-dev.onrender.com <br>
 
 # 🔺Key Roles and Their Functionalities
 
