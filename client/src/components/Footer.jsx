@@ -9,6 +9,47 @@ const Footer = () => {
         <p className="caption text-n-4 lg:block">
           © {new Date().getFullYear()}. All rights reserved.
         </p>
+        <p className="text-center text-gray-200 lg:block leading-normal text-xs sm:text-sm font-sans">
+          <span className="font-medium text-gray-300">
+            Crafted with passion
+          </span>
+          <span className="text-red-400 text-base sm:text-lg"> ♥ </span>
+          <span className="font-semibold text-white">by a great team.</span>
+          <br />
+          <span className="font-medium sm:font-semibold sm:text-base text-white tracking-wide">
+            <a
+              href="https://portfolio-durgesh.com"
+              target="_blank"
+              className=" hover:underline"
+            >
+              Durgesh
+            </a>{" "}
+            •
+            <a
+              href="https://portfolio-sonal.com"
+              target="_blank"
+              className=" hover:underline"
+            >
+              Sonal
+            </a>{" "}
+            •
+            <a
+              href="https://portfolio-sankalp.com"
+              target="_blank"
+              className=" hover:underline"
+            >
+              Sankalp
+            </a>{" "}
+            •
+            <a
+              href="https://portfolio-abhishek.com"
+              target="_blank"
+              className="hover:underline"
+            >
+              Abhishek
+            </a>
+          </span>
+        </p>
 
         <ul className="flex gap-5 flex-wrap">
           {socials.map((item) => (

@@ -20,7 +20,7 @@ const PricingList = () => {
             {item.price && (
               <>
                 <div className="h3">₹</div>
-                <div className="text-[5.5rem] leading-none font-bold">
+                <div className="text-[4.2rem] leading-none font-bold">
                   {item.price}
                 </div>
                 <div className="h5">/month</div>
