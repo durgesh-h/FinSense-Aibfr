@@ -207,46 +207,48 @@ export const collabApps = [
 
 export const pricing = [
   {
-      id: "0",
-      title: "Starter Plan",
-      description: "Basic financial management for individuals with secure transactions and insights.",
-      price: "9.99",
-      features: [
-        "Manage up to 50 transactions per month",
-        "Secure access and data encryption",
-        "Downloadable transaction receipts",
-        "View monthly insights",
-        "Basic transaction history",
-      ],
-    },
-    {
-      id: "1",
-      title: "Professional Plan",
-      description: "Advanced financial tools for businesses with detailed insights and priority support.",
-      price: "19.99",
-      features: [
-        "Manage up to 500 transactions per month",
-        "Secure access and advanced data encryption",
-        "Unlimited downloadable receipts",
-        "Detailed financial insights and analytics",
-        "Full transaction history with search and filters",
-       
-      ],
-    },
-    {
-      id: "2",
-      title: "Enterprise Plan",
-      description: "Comprehensive financial management for large teams with custom reports and multi-user access.",
-      price: null,
-      features: [
-        "Unlimited transactions",
-        "End-to-end encrypted secure data storage",
-        "Custom financial reports and analytics",
-        "Advanced budget planning tools",
-        "Multi-user access with permission controls",
-        "Dedicated account manager and 24/7 support",
-      ],
-    },
+    id: "0",
+    title: "Starter Plan",
+    description:
+      "Basic financial management for individuals with secure transactions and insights.",
+    price: "5999",
+    features: [
+      "Manage up to 60 transactions per month",
+      "Secure access and data encryption",
+      "Downloadable transaction receipts",
+      "View monthly insights",
+      "Basic transaction history",
+    ],
+  },
+  {
+    id: "1",
+    title: "Professional Plan",
+    description:
+      "Advanced financial tools for businesses with detailed insights and priority support.",
+    price: "9999",
+    features: [
+      "Manage up to 200 transactions per month",
+      "Secure access and advanced data encryption",
+      "Unlimited downloadable receipts",
+      "Detailed financial insights and analytics",
+      "Full transaction history with search and filters",
+    ],
+  },
+  {
+    id: "2",
+    title: "Enterprise Plan",
+    description:
+      "Comprehensive financial management for large teams with custom reports and multi-user access.",
+    price: null,
+    features: [
+      "Unlimited transactions",
+      "End-to-end encrypted secure data storage",
+      "Custom financial reports and analytics",
+      "Advanced budget planning tools",
+      "Multi-user access with permission controls",
+      "Dedicated account manager and 24/7 support",
+    ],
+  },
 ];
 
 export const benefits = [
